@@ -1,0 +1,35 @@
+{
+  "name": "ios-device",
+  "version": "0.1.0",
+  "description": "ios-device",
+  "keywords": [
+    "ios-device"
+  ],
+  "main": "./lib/ios-device.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zenzhu/ios-device.git"
+  },
+  "dependencies": {
+    "ios-deploy": "^1.9.0",
+    "xutil": "~1.0.0"
+  },
+  "devDependencies": {
+    "co-mocha": "*",
+    "mocha": "*",
+    "should": "*",
+    "jshint": "*",
+    "istanbul": "*",
+    "pre-commit": "1.1.1"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "pre-commit": [
+    "jshint"
+  ],
+  "homepage": "https://github.com/zenzhu/ios-device",
+  "author": "zenzhu",
+  "email": "zic.zhu@gmail.com",
+  "license": "MIT"
+}
