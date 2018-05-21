@@ -1,7 +1,7 @@
 {
   "name": "ios-device",
   "version": "1.0.0",
-  "description": "ios device",
+  "description": "Node.js wrapper around ios-deploy",
   "keywords": [
     "ios",
     "device"
