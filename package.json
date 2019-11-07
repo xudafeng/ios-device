@@ -1,6 +1,6 @@
 {
   "name": "ios-device",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js wrapper around ios-deploy",
   "keywords": [
     "ios",
@@ -12,7 +12,7 @@
     "url": "git://github.com/zenzhu/ios-device.git"
   },
   "dependencies": {
-    "ios-deploy": "^1.9.0",
+    "ios-deploy": "beta",
     "xutil": "~1.0.0"
   },
   "devDependencies": {
