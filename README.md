@@ -5,14 +5,14 @@
 [![Test coverage][coveralls-image]][coveralls-url]
 [![node version][node-image]][node-url]
 [![npm download][download-image]][download-url]
-[![CircleCI](https://circleci.com/gh/macacajs/ios-device.svg?style=svg)](https://circleci.com/gh/macacajs/ios-device)
+[![CircleCI](https://circleci.com/gh/xudafeng/ios-device.svg?style=svg)](https://circleci.com/gh/xudafeng/ios-device)
 
 [npm-image]: https://img.shields.io/npm/v/ios-device.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/ios-device
-[travis-image]: https://img.shields.io/travis/macacajs/ios-device.svg?style=flat-square
-[travis-url]: https://travis-ci.org/macacajs/ios-device
-[coveralls-image]: https://img.shields.io/coveralls/macacajs/ios-device.svg?style=flat-square
-[coveralls-url]: https://coveralls.io/r/macacajs/ios-device?branch=master
+[travis-image]: https://img.shields.io/travis/xudafeng/ios-device.svg?style=flat-square
+[travis-url]: https://travis-ci.org/xudafeng/ios-device
+[coveralls-image]: https://img.shields.io/coveralls/xudafeng/ios-device.svg?style=flat-square
+[coveralls-url]: https://coveralls.io/r/xudafeng/ios-device?branch=master
 [node-image]: https://img.shields.io/badge/node.js-%3E=_8-green.svg?style=flat-square
 [node-url]: http://nodejs.org/download/
 [download-image]: https://img.shields.io/npm/dm/ios-device.svg?style=flat-square
