@@ -6,6 +6,9 @@
     "ios",
     "device"
   ],
+  "files": [
+    "lib/*.js"
+  ],
   "main": "./lib/ios-device.js",
   "repository": {
     "type": "git",
@@ -19,7 +22,7 @@
     "co-mocha": "*",
     "eslint": "^4.14.0",
     "eslint-plugin-mocha": "^4.11.0",
-    "git-contributor": "^1.0.0",
+    "git-contributor": "1",
     "jshint": "*",
     "mocha": "*",
     "nyc": "^11.8.0",
@@ -28,7 +31,8 @@
   "scripts": {
     "test": "nyc --reporter=lcov --reporter=text mocha",
     "lint": "eslint --fix lib test",
-    "ci": "npm run lint && npm run test"
+    "ci": "npm run lint && npm run test",
+    "contributor": "git-contributor"
   },
   "pre-commit": [
     "lint"
